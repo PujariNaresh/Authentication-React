@@ -1,0 +1,39 @@
+{
+  "customers": [
+    {
+      "name": "nanna",
+      "email": "nanna@gmail.com",
+      "pass": "Nanna1234",
+      "mobile": "7890789065",
+      "id": 12
+    },
+    {
+      "name": "amma",
+      "email": "amma@gmail.com",
+      "pass": "Amma1234",
+      "mobile": "9866683901",
+      "id": 13
+    },
+    {
+      "name": "naresh",
+      "email": "naresh@gmail.com",
+      "pass": "Naresh123",
+      "mobile": "8074271725",
+      "id": 14
+    },
+    {
+      "name": "Prashanth",
+      "email": "jayvel@gmail.com",
+      "pass": "Jayvel123",
+      "mobile": "8989898989",
+      "id": 15
+    },
+    {
+      "name": "Zcinetia",
+      "email": "zcientia@gmail.com",
+      "pass": "Zcientia123",
+      "mobile": "8989898989",
+      "id": 16
+    }
+  ]
+}
